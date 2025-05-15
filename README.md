@@ -1,10 +1,10 @@
 # Full-Stack React: Kanban Board
 
-## Description
+## 📘 Project Overview
 
-This project enhances a Kanban board application by integrating user authentication using JSON Web Tokens (JWT). JWTs are a secure, stateless method for handling authentication in full-stack apps. They allow for compact, URL-safe transmission of user verification data, ensuring that only authenticated users can access and manage their tasks.
+This project extends a functional Kanban board application by integrating user authentication using JSON Web Tokens (JWT). JWTs enable a secure, scalable method for authenticating users, ensuring protected access to application resources. Tokens are compact, URL-safe, and can be decoded and verified without requiring server-side storage.
 
-## User Story
+## 🧑‍💼 User Story
 
 ```
 AS A member of an agile team
@@ -12,7 +12,7 @@ I WANT a Kanban board with a secure login page
 SO THAT I can securely access and manage my work tasks
 ```
 
-## Acceptance Criteria
+## ✅ Acceptance Criteria
 
 ```
 GIVEN a Kanban board with a secure login page
@@ -32,12 +32,13 @@ WHEN I remain inactive for a defined period
 THEN the JWT expires and I am redirected to the login page upon next action
 ```
 
-## Demo
-[![Watch live preview](https://raw.githubusercontent.com/atrvvm/kanban-board/main/demo_thumbnail.png)](https://raw.githubusercontent.com/atrvvm/kanban-board/main/kanban_demo.mp4)
+## 🖼️ Live Preview
+https://github.com/user-attachments/assets/aa8e9439-ee07-41e6-98ca-79f8bc4f5543
 
-### 🚀 Deployment Link
 
-> Live Site: [[https://your-kanban-app.onrender.com](https://kanban-board-2mr4.onrender.com)]
+## 🚀 Deployment Link
+
+> Live Site: [https://kanban-board-2mr4.onrender.com](https://kanban-board-2mr4.onrender.com)
 
 > GitHub Repo: [https://github.com/atrvvm/kanban-board](https://github.com/atrvvm/kanban-board.git)
 ---
