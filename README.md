@@ -33,7 +33,8 @@ THEN the JWT expires and I am redirected to the login page upon next action
 ```
 
 ## Demo Preview
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.tella.tv/video/cmapefphk00090blb8x4va7xt/embed?b=0&title=0&a=0&loop=1&t=0&muted=0&wt=0" allowfullscreen allowtransparency></iframe></div>
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+
 
 ### 🚀 Deployment Link
 
