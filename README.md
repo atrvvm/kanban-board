@@ -33,8 +33,7 @@ THEN the JWT expires and I am redirected to the login page upon next action
 ```
 
 ## Demo
-> [Watch Live Preview](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
-
+[![Watch live preview](https://raw.githubusercontent.com/atrvvm/kanban-board/main/demo_thumbnail.png)](https://raw.githubusercontent.com/atrvvm/kanban-board/main/kanban_demo.mp4)
 
 ### 🚀 Deployment Link
 
