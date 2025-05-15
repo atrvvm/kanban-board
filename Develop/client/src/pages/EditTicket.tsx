@@ -21,7 +21,7 @@ const EditTicket = () => {
 
   useEffect(() => {
     fetchTicket(state);
-  }, []);
+  });
 
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
