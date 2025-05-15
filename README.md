@@ -1,4 +1,4 @@
-# 14 Full-Stack React: Kanban Board
+# Full-Stack React: Kanban Board
 
 ## Description
 
@@ -32,8 +32,8 @@ WHEN I remain inactive for a defined period
 THEN the JWT expires and I am redirected to the login page upon next action
 ```
 
-## Demo Preview
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+## Demo
+> [Watch Live Preview](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 
 
 ### 🚀 Deployment Link
